@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# reqres-react-app
+
+This React application allows users to view and manage user data from the Reqres API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
